@@ -98,7 +98,7 @@ technology.
 <!-- ************************************************************************ -->
 <!-- activity graph -->
 <div align="center">
-    <h2>⚡Activity Graph</h2>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kumkumdutta&theme=react-dark&hide_border=true" alt="kumkum Activity Graph" />
+    <h2>⚡Activity</h2>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gauravpardeshi1&theme=dracula" />
 </div>    
 <!-- ************************************************************************ -->
