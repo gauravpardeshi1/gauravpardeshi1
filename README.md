@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&speed=10&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile" alt="Welcome to my GitHub Profile. I am a passionate full-stack web developer" />
 </p>
-
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="dash" />
+  </div>
 <h2 align='center'>Aspiring full stack developer Strong in web development
 and integration with intuitive problem-solving skills.
 Passionate about implementing and launching new
@@ -102,3 +104,16 @@ technology.
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gauravpardeshi1&theme=dracula" />
 </div>    
 <!-- ************************************************************************ -->
+
+
+<div align="center">
+  <h2> Connect with me ⬇️</h2>
+<a href="https://github.com/salil-01" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/salilupadhyay" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>
+ 
+  <br/>
