@@ -70,3 +70,35 @@ technology.
    </p>
 </div>
 <br/>
+
+<!-- ******************************************************************************** -->
+<!-- ************************************************************************ -->
+<!-- github states -->
+
+<h2 align="center">📊 My Github Stats</h2>
+   <br/>   
+   <div align="center">
+       <img  src="https://github-readme-stats.vercel.app/api?username=gauravpardeshi1"
+          alt="stats" />
+   </div>
+    <br/>
+  
+   <div align="center">
+       <img  src="https://github-readme-streak-stats.herokuapp.com/?user=gauravpardeshi1"
+          alt="streak" />
+    </div>
+    
+  <br/>
+  <div align="center">
+       <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravpardeshi1"
+          alt="lan" />
+    </div> 
+<!-- ************************************************************************ -->
+
+<!-- ************************************************************************ -->
+<!-- activity graph -->
+<div align="center">
+    <h2>⚡Activity Graph</h2>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kumkumdutta&theme=react-dark&hide_border=true" alt="kumkum Activity Graph" />
+</div>    
+<!-- ************************************************************************ -->
