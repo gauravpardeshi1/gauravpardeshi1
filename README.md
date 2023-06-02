@@ -43,11 +43,11 @@ technology.
  <h2 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> To Know More About Me :- <a href= "https://kumkumdutta.github.io/"><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=ko-fi&logoColor=white" align="center"/></a>
  </h2>
 
- <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
+ <img src='https://react-tailwindcss-portfolio.netlify.app/static/media/developer.ef097afb.svg' /> 
 <!-- ****************************************************** -->
 <div align="center">
 <!--     <br/> -->
-    <h2 align="center">  🏻‍💻 Tech-Stack and Tools</h2>
+    <h2 align="center">💻 Tech-Stack and Tools</h2>
    <br/>
    <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
