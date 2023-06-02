@@ -47,7 +47,7 @@ technology.
 <!-- ****************************************************** -->
 <div align="center">
 <!--     <br/> -->
-    <h2 align="center">🧑🏻‍💻 Tech-Stack and Tools</h2>
+    <h2 align="center">  🏻‍💻 Tech-Stack and Tools</h2>
    <br/>
    <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
