@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
  <div align="center">
  
-  <h1><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Gaurav👋</h1>
+  <h1><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Gaurav</h1>
 </div>
 
 <p align='center' style='margin: 16px 4px 8px;'>
