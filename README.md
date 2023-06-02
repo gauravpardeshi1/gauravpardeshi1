@@ -26,12 +26,7 @@ Here are some ideas to get you started:
 <div align="center">
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="dash" />
   </div>
-<h2 align='center'>Aspiring full stack developer Strong in web development
-and integration with intuitive problem-solving skills.
-Passionate about implementing and launching new
-projects. ability to translate business requirements into
-technical solutions. looking to start career as an entrylevel web developer with a reputable firm driven by
-technology.
+<h2 align='center'>Self-motivated and inspiring a Full Stack Developer with 1200+ hours of hands-on codding experience. looking for a challenging growth-oriented organization
 </h2>
 
 <!-- Portfolio -->
